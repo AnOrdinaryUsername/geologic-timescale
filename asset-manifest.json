@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/geologic-timescale/static/css/main.207946bc.chunk.css",
-    "main.js": "/geologic-timescale/static/js/main.319b007c.chunk.js",
-    "main.js.map": "/geologic-timescale/static/js/main.319b007c.chunk.js.map",
+    "main.js": "/geologic-timescale/static/js/main.001d5b7f.chunk.js",
+    "main.js.map": "/geologic-timescale/static/js/main.001d5b7f.chunk.js.map",
     "runtime-main.js": "/geologic-timescale/static/js/runtime-main.30638b8c.js",
     "runtime-main.js.map": "/geologic-timescale/static/js/runtime-main.30638b8c.js.map",
     "static/js/2.6d1bb54d.chunk.js": "/geologic-timescale/static/js/2.6d1bb54d.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.30638b8c.js",
     "static/js/2.6d1bb54d.chunk.js",
     "static/css/main.207946bc.chunk.css",
-    "static/js/main.319b007c.chunk.js"
+    "static/js/main.001d5b7f.chunk.js"
   ]
 }
