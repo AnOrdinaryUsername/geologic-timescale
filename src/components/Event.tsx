@@ -42,7 +42,7 @@ export default function Event({ name, date, position }: Props) {
 
   const line = (
     <TimelineConnector
-      sx={{ height: `${lineLength}px`, display: shouldHideLine }}
+      sx={{ height: `${lineLength}px`, display: shouldHideLine, flexGrow: 0 }}
     />
   );
 
