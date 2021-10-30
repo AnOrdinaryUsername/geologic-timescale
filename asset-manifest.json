@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.207946bc.chunk.css",
-    "main.js": "/static/js/main.319b007c.chunk.js",
-    "main.js.map": "/static/js/main.319b007c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a05e8649.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a05e8649.js.map",
-    "static/js/2.6d1bb54d.chunk.js": "/static/js/2.6d1bb54d.chunk.js",
-    "static/js/2.6d1bb54d.chunk.js.map": "/static/js/2.6d1bb54d.chunk.js.map",
-    "static/js/3.9b4ba463.chunk.js": "/static/js/3.9b4ba463.chunk.js",
-    "static/js/3.9b4ba463.chunk.js.map": "/static/js/3.9b4ba463.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.207946bc.chunk.css.map": "/static/css/main.207946bc.chunk.css.map",
-    "static/js/2.6d1bb54d.chunk.js.LICENSE.txt": "/static/js/2.6d1bb54d.chunk.js.LICENSE.txt"
+    "main.css": "/geologic-timescale/static/css/main.207946bc.chunk.css",
+    "main.js": "/geologic-timescale/static/js/main.319b007c.chunk.js",
+    "main.js.map": "/geologic-timescale/static/js/main.319b007c.chunk.js.map",
+    "runtime-main.js": "/geologic-timescale/static/js/runtime-main.30638b8c.js",
+    "runtime-main.js.map": "/geologic-timescale/static/js/runtime-main.30638b8c.js.map",
+    "static/js/2.6d1bb54d.chunk.js": "/geologic-timescale/static/js/2.6d1bb54d.chunk.js",
+    "static/js/2.6d1bb54d.chunk.js.map": "/geologic-timescale/static/js/2.6d1bb54d.chunk.js.map",
+    "static/js/3.9b4ba463.chunk.js": "/geologic-timescale/static/js/3.9b4ba463.chunk.js",
+    "static/js/3.9b4ba463.chunk.js.map": "/geologic-timescale/static/js/3.9b4ba463.chunk.js.map",
+    "index.html": "/geologic-timescale/index.html",
+    "static/css/main.207946bc.chunk.css.map": "/geologic-timescale/static/css/main.207946bc.chunk.css.map",
+    "static/js/2.6d1bb54d.chunk.js.LICENSE.txt": "/geologic-timescale/static/js/2.6d1bb54d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a05e8649.js",
+    "static/js/runtime-main.30638b8c.js",
     "static/js/2.6d1bb54d.chunk.js",
     "static/css/main.207946bc.chunk.css",
     "static/js/main.319b007c.chunk.js"
